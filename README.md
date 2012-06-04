@@ -5,8 +5,10 @@
 ##Usage
 Include yeeeaaaaahhhhhhhhhh.js in your html file - done!
 
+Btw: Less than 500 Byte.
+
 ``` html
-<script src="yeeeaaaaahhhhhhhhhh.js"></script>
+<script src="yeeeaaaaahhhhhhhhhh.min.js"></script>
 ```
 
 ###Twitter
